@@ -15,7 +15,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://fb.com/johan.restrepo.9022662" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="stiven restrepo" height="30" width="40" /></a>
+<a href="https://fb.com/johan.restrepo.9022662" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Sten Restrepo" height="30" width="40" /></a>
 <a href="https://discord.gg/itsjohan56" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="itsjohan56" height="30" width="40" /></a>
 </p>
 
